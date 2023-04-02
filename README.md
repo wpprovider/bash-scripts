@@ -18,4 +18,4 @@ All scripts in this repository are released under an open license, which means t
 We welcome contributions to this repository! If you have a useful bash script for WordPress that you'd like to share, feel free to submit a pull request. We also welcome suggestions for improvements or new scripts from the community.
 
 # Contact
-If you have any questions or issues with these scripts, please contact us at www.wpprovider.com.
+If you have any questions or issues with these scripts, please contact us at https://wpprovider.com
