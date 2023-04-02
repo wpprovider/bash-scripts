@@ -1,3 +1,4 @@
+# As an addition to only check which sites are running the 3.11.6 version a way to update it directly
 #!/bin/bash
 
 for file in /home/*/domains/*/public_html/wp-content/plugins/elementor-pro/license.txt; do
